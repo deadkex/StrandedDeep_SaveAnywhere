@@ -1,6 +1,6 @@
 # StrandedDeep_SaveAnywhere
 
-- Download this and put it into a folder
+- Download the newest release [this](https://github.com/deadkex/StrandedDeep_SaveAnywhere/releases/download/1.0/V1.0.zip) and put it into a folder
 - Download https://github.com/warbler/SharpMonoInjector/releases/download/v2.2/SharpMonoInjector.Console.zip
   - Unzip into the same folder
 - Start the game and wait until it loaded into the main menu!!
